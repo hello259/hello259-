@@ -4,7 +4,7 @@ heroImage: /head-portrait.jpg
 heroText: hello-259的前端记录
 tagline: 一点一滴都是进步
 actionText: 马上进入 ->
-actionLink: /pages/home/testIndex.md
+actionLink: /pages/Vue/useSkill.md
 features:
     - title: 简介智商
       details: 以MarkDown为中心的项目结构，以最少的配置帮助你专注于写作

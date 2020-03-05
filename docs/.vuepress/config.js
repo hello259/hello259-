@@ -49,17 +49,17 @@ module.exports = {
         ],
         sidebar: {
             "/pages/": [{
-                    title: "测试菜单1", // 一级菜单名称
-                    children: [
-                        ["home/testIndex.md", "子菜单1"],
-                        ["home/center.md", "子菜单1"]
-                    ]
-                },
-                {
                     title: "es6新特性",
                     children: [
                         ["es6/es6.md", "es6新特性"],
                         ["es6/Array.md", "Array新方法"]
+                    ]
+                },
+                {
+                    title: "Vue",
+                    children: [
+                        ["Vue/useSkill.md", "Vue使用技巧.md"],
+                        ["Vue/vue_render.md", "Vue的render函数使用.md"]
                     ]
                 }
             ]
